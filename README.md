@@ -1,0 +1,1 @@
+# ManejoStock_App
